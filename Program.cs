@@ -15,7 +15,7 @@ namespace SpaceGame
             playerCharacter.SubtractCurrency(7);
             Console.WriteLine($"Current Currency:{playerCharacter.GetCurrency()}");
 
-
+            //Test Comment
 
         }
         public class Character
