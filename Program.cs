@@ -16,6 +16,7 @@ namespace SpaceGame
             Console.WriteLine($"Current Currency:{playerCharacter.GetCurrency()}");
 
             //Test Comment
+            //Test Comment 2
 
         }
         public class Character
