@@ -2,9 +2,7 @@
 
 namespace SpaceGame
 {
-    /// <summary>
-    /// Summary description for Class1
-    /// </summary>
+    
     public class Character
     {
         int age = 18, race = 0, currency = 0;
