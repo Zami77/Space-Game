@@ -6,7 +6,9 @@ namespace SpaceGame
     public class Character
     {
         int age = 18, race = 0, currency = 0;
-        string charName = "";
+        string charName = "", 
+               humanGoals = "";
+
         public Character()
         {
             age = 18;
@@ -21,8 +23,12 @@ namespace SpaceGame
             race = raceNum;
             charName = cName;
             currency = 15;
-        }
 
+        }
+        public string GetGoal()
+        {
+            return humanGoals;
+        }
         public string GetName()
         {
             return charName;
