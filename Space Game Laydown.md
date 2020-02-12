@@ -1,9 +1,9 @@
 # Space-Game
 This is the outline for the MSSA Space Game project
 --------------------------------------------------------------------------------------------
-/nCharacter Class
-	/nFields: Age = 18, Name, Race (we need to come up races), Currrency, Goal
-	/nMethods: Add/Subtract Currency, Get Currency, GetGoal
+\nCharacter Class
+	\nFields: Age = 18, Name, Race (we need to come up races), Currrency, Goal
+	\nMethods: Add/Subtract Currency, Get Currency, GetGoal
 Ship Class
 	Fields: Name, Speed, Gas, GasCapacity, Health, Attack
 	Methods: GetCurGas, GetHealth, Add/Subtract Health, GetAttack, Add/Subtract Gas, Travel
