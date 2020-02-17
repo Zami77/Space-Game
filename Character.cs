@@ -2,7 +2,8 @@
 
 namespace SpaceGame
 {
-    
+    //To do: create a story for each race, and winning requirements for each race.
+    //To do: create (3) different races
     public class Character
     {
         int age = 18, race = 0, currency = 0;

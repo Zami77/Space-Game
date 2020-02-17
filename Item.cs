@@ -6,6 +6,7 @@ namespace SpaceGame
 {
     class Item
     {
+        //To do, create a dictionary of items with associated costs.
         string name = "";
         int price = 0, 
             quantity = 0;
