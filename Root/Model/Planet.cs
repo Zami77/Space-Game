@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
+//add 4 additional planets
+
+//add new planet attributes to include
+//	-distance from their suns
+//	-are the planets inhabited? by??
+
 namespace SpaceGame
 {
     class Planet
