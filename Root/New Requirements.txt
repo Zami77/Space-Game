@@ -1,0 +1,10 @@
+﻿implementation of multiplayer requirement
+
+add 4 additional planets
+
+add new planet attributes to include 
+	-distance from their suns
+	-are the planets inhabited? by??
+
+structured organization of project
+to include classes and object
