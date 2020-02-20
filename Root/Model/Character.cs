@@ -9,7 +9,7 @@ namespace SpaceGame
         int age = 18, race = 0, currency = 0;
         string charName = "", 
                humanGoals = "";
-
+        //Test Comment
         public Character()
         {
             age = 18;
