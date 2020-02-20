@@ -6,9 +6,10 @@ namespace SpaceGame
     //To do: create (3) different races
     public class Character
     {
-        int age = 18, race = 0, currency = 0;
-        string charName = "", 
-               humanGoals = "";
+        private int age = 18, race = 0, currency = 0;
+        private string charName = "", 
+                       humanGoals = "";
+        //test comment by Wei
 
         public Character()
         {
